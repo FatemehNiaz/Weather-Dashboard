@@ -6,13 +6,21 @@ Creating a 5-Day weather forcast using the third-part APIs from openweathermap.o
 
 ## Acceptance Criteria
 
-> Create a weather dashboard 
-> User should be able to search the city
-> With searching the city, the page should display the current and future weather condition of that city
-> The cities that have been searched should be added to the search history
-> After searching the name of the city to check its current and future weather, page should respond with displaying the name of the city, a 5-day forecast which shows the date, an icon that displays the weather condition, the humidity, the speed of the wind and temperature
-> User should be able to click on the city in the search history
-> Then the current and future weather condition of that city should be displayed
+Create a weather dashboard 
+
+User should be able to search the city
+
+With searching the city, the page should display the 
+current and future weather condition of that city
+ 
+The cities that have been searched should be added to the search history
+
+After searching the name of the city to check its current and future weather, page should respond with displaying the name of the city, a 5-day forecast 
+which shows the date, an icon that displays the weather condition, the humidity, the speed of the wind and temperature
+
+User should be able to click on the city in the search history
+
+Then the current and future weather condition of that city should be displayed
 
 ## Mock-Up
 
